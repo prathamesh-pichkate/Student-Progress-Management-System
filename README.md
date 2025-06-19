@@ -4,6 +4,10 @@ A full-stack **MERN** application to track and manage the competitive programmin
 
 ---
 
+Video Link : https://youtu.be/vqeIJT4P8sE
+
+---
+
 ## 🚀 Features
 
 - ✅ **Student Dashboard**: View a list of all students with key metrics.
@@ -16,6 +20,7 @@ A full-stack **MERN** application to track and manage the competitive programmin
 - ✅ **Secure Backend**: Built with Express and MongoDB, handles API calls safely.
 
 ---
+
 
 ## 🛠️ Tech Stack
 
